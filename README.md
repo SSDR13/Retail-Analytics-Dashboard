@@ -1,6 +1,6 @@
 # 📊 Retail Analytics Dashboard - Power BI
 
-![Dashboard Preview](dashboard_preview.png)
+![Dashboard Preview](Retail-Analytics-Dashboard-Image.png)
 
 ## 🔍 Project Overview
 An interactive dashboard analyzing sales performance with:
