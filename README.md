@@ -5,7 +5,7 @@
 ## 🔍 Project Overview
 An interactive dashboard analyzing sales performance with:
 - **Key Metrics**: Avg Profit per Order, Sales per Customer (DAX measures)
-- **Top 5 Products**: Contributing **[X]%** of total revenue
+- **Top 5 Products**:  Isolated top-selling products
 - **Dynamic Filters**: Region, Category, and time-period slicers
 
 ## 🛠️ Technical Details
@@ -23,6 +23,7 @@ An interactive dashboard analyzing sales performance with:
 3. Interact with filters to explore trends.
 
 ## 💡 Key Insights
-- **Top 5 products** drive **[X]%** of total sales.
+- Isolated top-selling products, revealing **$153K in concentrated revenue** and 12% higher unit sales than average.
+- Automated profit tracking with DAX measures (`Profit per Order`), enabling rapid performance reviews. 
 - **Avg profit per order**: $28.66  
 - **Sales per customer**: $2.90
