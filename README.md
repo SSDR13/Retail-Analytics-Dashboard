@@ -24,5 +24,5 @@ An interactive dashboard analyzing sales performance with:
 
 ## 💡 Key Insights
 - **Top 5 products** drive **[X]%** of total sales.
-- **Avg profit per order**: $[Y]  
-- **Sales per customer**: $[Z]  
+- **Avg profit per order**: $28.66  
+- **Sales per customer**: $2.90
